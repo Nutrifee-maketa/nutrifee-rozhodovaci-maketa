@@ -11,7 +11,7 @@ s důvodem z nabídky). Bez jeho rozhodnutí se nic nemění.
 „DEMO · syntetická data · není určeno pro léčbu“ je jednou a trvale v liště ukázky (bez prezentační
 vrstvy ho nese obrazovka).
 
-**https://rudasrr.github.io/nutrifee-rozhodovaci-maketa/** — statická stránka na GitHub Pages; po přihlášení (garant / správce, Supabase Auth) ukládá jen neformální rozhodnutí garanta k maketě (viz `demo/auth.js`, `demo/sync.js`, `demo/results.js`).
+**https://nutrifee-maketa.github.io/nutrifee-rozhodovaci-maketa/** — statická stránka na GitHub Pages; po přihlášení (garant / správce, Supabase Auth) ukládá jen neformální rozhodnutí garanta k maketě (viz `demo/auth.js`, `demo/sync.js`, `demo/results.js`).
 
 ## Spuštění
 
