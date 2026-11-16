@@ -2,7 +2,7 @@
 
 Tyto podklady popisují stav makety **SCHEMA 91** k 12. 11. 2026. Vedou ke dvěma cílům. Začněte první cestou.
 
-**Celá předávka jako webová stránka:** <https://rudasrr.github.io/nutrifee-rozhodovaci-maketa/predani/> (stejný obsah jako soubory v této složce, se snímky a záložkami; bez přihlášení).
+**Celá předávka jako webová stránka:** <https://nutrifee-maketa.github.io/nutrifee-rozhodovaci-maketa/predani/> (stejný obsah jako soubory v této složce, se snímky a záložkami; bez přihlášení).
 
 > **12. 11. 2026:** Nasazena **SCHEMA 91** (rozhodnutí vlastníka 13–15 a zbytek nálezů poslední kontroly). Co se změnilo, shrnuje `01-cesta-k-demu.md` (odstavec „Stav“ a rozhodnutí z 11. 11.). Snímky obrazovek i popisy atlasu jsou ze SCHEMA 91; při rozdílu platí maketa.
 
@@ -32,7 +32,7 @@ Vlastník 9. 11. 2026 rozhodl, že první demo se staví **nad převzatým jádr
 
 ## Maketa a testy
 
-- Živá ukázka: <https://rudasrr.github.io/nutrifee-rozhodovaci-maketa/> (vyžaduje přihlášení). Jak ukázku spustit lokálně bez přihlášení, popisuje `01-cesta-k-demu.md`.
+- Živá ukázka: <https://nutrifee-maketa.github.io/nutrifee-rozhodovaci-maketa/> (vyžaduje přihlášení). Jak ukázku spustit lokálně bez přihlášení, popisuje `01-cesta-k-demu.md`.
 - Testy se spouštějí v kořeni repozitáře:
   - `node rychle.test.cjs` – rychlá sada, asi 40 s (15 řádků);
   - `node zlate-vystupy.test.cjs` – zlaté výstupy jádra (9 testů; soubory JSON a generátor jsou ve složce `zlate-vystupy/`, test leží v kořeni);
